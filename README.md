@@ -9,7 +9,7 @@
 
 ## Warming up
 
-Since this is the first lab, we'll keep it simple.  You will take the code from the previous README and "swap the implementation"; that is, you will replace the LinkedList with an ArrayList.  Because the code "programs to an interface", you will be able to swap the implementation by changing a single line (and adding an `import` statement).
+Since this is the first lab, we'll keep it simple.  You will take the code from the previous README and "swap the implementation"; that is, you will replace the LinkedList with an ArrayList.  Because the code "programs to an interface", you'll be able to swap the implementation by changing a single line (and adding an `import` statement).
 
 
 ## Instructions
